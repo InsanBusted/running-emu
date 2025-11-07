@@ -1,0 +1,12 @@
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+UI hierchary dumped to: /sdcard/window_dump.xml
+/sdcard/window_dump.xml: 1 file pulled, 0 skipped. 7.1 MB/s (23322 bytes in 0.003s)
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Menjalankan emulator MEmu...
+Instagram profile @berlbodycare diluncurkan, tunggu 7 detik...
+Men-tap postingan pertama di koordinat 131,657
+Men-tap postingan pertama di tengah Reels 351,664
+Teks angka yang ditemukan di layar (mungkin views/likes): ['1']
+Instagram profile @berlbodycare diluncurkan, tunggu 7 detik...
+Men-tap postingan pertama di koordinat 131,657
+Men-tap postingan pertama di tengah Reels 351,664

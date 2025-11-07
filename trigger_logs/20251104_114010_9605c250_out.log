@@ -1,0 +1,5 @@
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Menjalankan emulator MEmu...
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21503
+MEmu: Men-tap postingan pertama di 131,657
+MEmu: Men-tap Reels di 351,664

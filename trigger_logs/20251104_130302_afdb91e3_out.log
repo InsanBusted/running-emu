@@ -1,0 +1,37 @@
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+UI hierchary dumped to: /sdcard/window_dump.xml
+UI hierchary dumped to: /sdcard/window_dump.xml
+UI hierchary dumped to: /sdcard/window_dump.xml
+/sdcard/window_dump.xml: 1 file pulled, 0 skipped. 10.0 MB/s (23322 bytes in 0.002s)
+/sdcard/window_dump.xml: 1 file pulled, 0 skipped. 4.3 MB/s (23330 bytes in 0.005s)
+/sdcard/window_dump.xml: 1 file pulled, 0 skipped. 5.4 MB/s (23322 bytes in 0.004s)
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Starting: Intent { act=android.intent.action.VIEW dat=https://www.instagram.com/... pkg=com.instagram.android }
+Menjalankan emulator MEmu...
+Menjalankan emulator MEmu_9...
+Menjalankan emulator MEmu_5...
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21593
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21503
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21553
+MEmu_9: Men-tap postingan pertama di 131,657
+MEmu: Men-tap postingan pertama di 131,657
+MEmu_5: Men-tap postingan pertama di 131,657
+MEmu: Men-tap Reels di 351,664
+MEmu_9: Men-tap Reels di 351,664
+MEmu_5: Men-tap Reels di 351,664
+MEmu_5: Views/Likes yang ditemukan: ['1']
+MEmu: Views/Likes yang ditemukan: ['1']
+MEmu_9: Views/Likes yang ditemukan: ['1']
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21503
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21553
+Instagram @berlbodycare dibuka pada -s 127.0.0.1:21593
+MEmu_5: Men-tap postingan terbaru di 131,657
+MEmu: Men-tap postingan terbaru di 131,657
+MEmu_9: Men-tap postingan terbaru di 131,657
+MEmu: Men-tap Reels tengah di 351,664
+MEmu_5: Men-tap Reels tengah di 351,664
+MEmu_9: Men-tap Reels tengah di 351,664
+Semua emulator selesai dijalankan.

@@ -1,0 +1,11 @@
+adb.exe: device '127.0.0.1:21503' not found
+Traceback (most recent call last):
+  File "D:\artificial-intelligence\running-app\read.py", line 133, in <module>
+    main_for_emulator(emulator)
+  File "D:\artificial-intelligence\running-app\read.py", line 94, in main_for_emulator
+    xml2 = dump_ui(device)
+  File "D:\artificial-intelligence\running-app\read.py", line 40, in dump_ui
+    subprocess.run(cmd_dump, shell=True, check=True)
+  File "D:\Laragon\bin\python\python-3.10\lib\subprocess.py", line 524, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '"D:\Program Files\Microvirt\MEmu\adb.exe" -s 127.0.0.1:21503 shell uiautomator dump /sdcard/window_dump.xml' returned non-zero exit status 1.

@@ -33,15 +33,17 @@ subprocess.run(fr'{ADB_PATH} {DEVICE} shell input tap {x} {y}')
 time.sleep(6)
 
 x1, y1 = 360, 600
-print("like postingan")
+print("tonton postingan")
 for i in range(2):
     subprocess.run(fr'{ADB_PATH} {DEVICE} shell input tap {x1} {y1}')  
     time.sleep(0.3)  
     
-time.sleep(60)
-x2, y2 = 675, 830
-print(f"🟢 klik postingan pertama di posisi ({x2}, {y2})...")
-subprocess.run(fr'{ADB_PATH} {DEVICE} shell input tap {x2} {y2}')
+time.sleep(5)
+print("like postingan")
+x2, y2 = 330, 295
+for i in range(2):
+    subprocess.run(fr'{ADB_PATH} {DEVICE} shell input tap {x2} {y2}')  
+     
 
     
 
